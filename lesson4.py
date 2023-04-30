@@ -23,5 +23,6 @@ b = y2 - k * x2
 
 
 print("Уравнение прямой, проходящей через эти точки:")
+print('TEST GIT COMMIT')
 
 print("y = ", k, " * x + ", b)
